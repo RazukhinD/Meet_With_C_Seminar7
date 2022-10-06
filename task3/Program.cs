@@ -59,15 +59,22 @@ void PrintMatrix(int[,] matrix)
 int SummElementMainDiagonal(int[,] matrix1)
 {
     int summ = 0;
-    for (int i = 0; i < matrix1.GetLength(0) ; i++)
+    int temp = matrix1.GetLength(0);
+    if (matrix1.GetLength(0)>matrix1.GetLength(1))
     {
-        for (int j = 0; j < matrix1.GetLength(1) ; j++)
-        {
-            if (i==j)
-            {
-                summ=summ+matrix1[i,j];
-            }
-        }
+        temp = matrix1.GetLength(1);
     }
+    for (int i = 0; i < temp ; i++)
+    {
+        // for (int j = 0; j < matrix1.GetLength(1) ; j++)
+        // {
+        //     if (i==j)
+        //     {
+        //         summ=summ+matrix1[i,j];
+        //     }
+        // }
+        summ=summ+matrix1[i,i];
+    }
+    
     return summ;
 }
