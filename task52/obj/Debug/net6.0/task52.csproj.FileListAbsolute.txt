@@ -1,0 +1,15 @@
+C:\Education\Seminar7\task52\obj\Debug\net6.0\task52.csproj.AssemblyReference.cache
+C:\Education\Seminar7\task52\obj\Debug\net6.0\task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\Seminar7\task52\obj\Debug\net6.0\task52.AssemblyInfoInputs.cache
+C:\Education\Seminar7\task52\obj\Debug\net6.0\task52.AssemblyInfo.cs
+C:\Education\Seminar7\task52\obj\Debug\net6.0\task52.csproj.CoreCompileInputs.cache
+C:\Education\Seminar7\task52\bin\Debug\net6.0\task52.exe
+C:\Education\Seminar7\task52\bin\Debug\net6.0\task52.deps.json
+C:\Education\Seminar7\task52\bin\Debug\net6.0\task52.runtimeconfig.json
+C:\Education\Seminar7\task52\bin\Debug\net6.0\task52.dll
+C:\Education\Seminar7\task52\bin\Debug\net6.0\task52.pdb
+C:\Education\Seminar7\task52\obj\Debug\net6.0\task52.dll
+C:\Education\Seminar7\task52\obj\Debug\net6.0\refint\task52.dll
+C:\Education\Seminar7\task52\obj\Debug\net6.0\task52.pdb
+C:\Education\Seminar7\task52\obj\Debug\net6.0\task52.genruntimeconfig.cache
+C:\Education\Seminar7\task52\obj\Debug\net6.0\ref\task52.dll
