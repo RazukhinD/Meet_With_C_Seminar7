@@ -12,7 +12,7 @@ WriteLine("Введите размер матрицы, минимальное и
 int [] parameters = GetArrayForString(ReadLine()!);
 int [,] matrix=GetMatrixArray(parameters[0],parameters[1],parameters[2],parameters[3]);
 PrintMatrix(matrix);
-WriteLine("среднее арифмитические каждго столба равны");
+WriteLine("среднее арифмитические каждого столба равны");
 double[] averageeverycolumns = AverageEveryColumns(matrix);
 for (int j = 0; j < averageeverycolumns.Length; j++)
         {
